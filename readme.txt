@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Change online.
 Creating a new branch is quich and simple.
+祥林嫂不幸地失去了阿毛。
